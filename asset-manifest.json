@@ -1,13 +1,13 @@
 {
-  "main.css": "/ChipmunkHNClone/static/css/main.ef7d4232.chunk.css",
-  "main.js": "/ChipmunkHNClone/static/js/main.42955e67.chunk.js",
-  "main.js.map": "/ChipmunkHNClone/static/js/main.42955e67.chunk.js.map",
-  "static/js/1.a94dfdf2.chunk.js": "/ChipmunkHNClone/static/js/1.a94dfdf2.chunk.js",
-  "static/js/1.a94dfdf2.chunk.js.map": "/ChipmunkHNClone/static/js/1.a94dfdf2.chunk.js.map",
+  "main.css": "/ChipmunkHNClone/static/css/main.9bb46184.chunk.css",
+  "main.js": "/ChipmunkHNClone/static/js/main.8183d016.chunk.js",
+  "main.js.map": "/ChipmunkHNClone/static/js/main.8183d016.chunk.js.map",
+  "static/js/1.b79109e8.chunk.js": "/ChipmunkHNClone/static/js/1.b79109e8.chunk.js",
+  "static/js/1.b79109e8.chunk.js.map": "/ChipmunkHNClone/static/js/1.b79109e8.chunk.js.map",
   "runtime~main.js": "/ChipmunkHNClone/static/js/runtime~main.e4da54ac.js",
   "runtime~main.js.map": "/ChipmunkHNClone/static/js/runtime~main.e4da54ac.js.map",
-  "static/css/main.ef7d4232.chunk.css.map": "/ChipmunkHNClone/static/css/main.ef7d4232.chunk.css.map",
+  "static/css/main.9bb46184.chunk.css.map": "/ChipmunkHNClone/static/css/main.9bb46184.chunk.css.map",
   "index.html": "/ChipmunkHNClone/index.html",
-  "precache-manifest.37848329213bafd74126db9900ad6e20.js": "/ChipmunkHNClone/precache-manifest.37848329213bafd74126db9900ad6e20.js",
+  "precache-manifest.d52d3062cab86ebcb8f99dc13633239b.js": "/ChipmunkHNClone/precache-manifest.d52d3062cab86ebcb8f99dc13633239b.js",
   "service-worker.js": "/ChipmunkHNClone/service-worker.js"
 }

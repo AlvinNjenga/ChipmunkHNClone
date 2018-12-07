@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ChipmunkHNClone/precache-manifest.37848329213bafd74126db9900ad6e20.js"
+  "/ChipmunkHNClone/precache-manifest.d52d3062cab86ebcb8f99dc13633239b.js"
 );
 
 workbox.clientsClaim();
