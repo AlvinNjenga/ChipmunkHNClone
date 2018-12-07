@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/ChipmunkHNClone/static/js/runtime~main.e4da54ac.js"
   },
   {
-    "revision": "8183d01671541d70a3c2",
-    "url": "/ChipmunkHNClone/static/js/main.8183d016.chunk.js"
+    "revision": "e58a3728da8f493abb29",
+    "url": "/ChipmunkHNClone/static/js/main.e58a3728.chunk.js"
   },
   {
     "revision": "b79109e8dbbe6f71b63a",
     "url": "/ChipmunkHNClone/static/js/1.b79109e8.chunk.js"
   },
   {
-    "revision": "8183d01671541d70a3c2",
+    "revision": "e58a3728da8f493abb29",
     "url": "/ChipmunkHNClone/static/css/main.9bb46184.chunk.css"
   },
   {
-    "revision": "1d87a96d91bac0b6e1590ea7d4e52565",
+    "revision": "77f09bfa362a743de78277fea2dd548b",
     "url": "/ChipmunkHNClone/index.html"
   }
 ];
